@@ -148,11 +148,11 @@ const App = () => {
           >
             <img
               className="absolute translate-z-[-0.1vw] rotate-y-180 rounded-[5vw] aspect-video bg-blue-500"
-              src="../public/back.jpg"
+              src="../back.jpg"
               alt=""
               draggable={false}
             />
-            <img className="absolute rounded-[5vw] aspect-video bg-blue-500" src="../public/front.png" alt="" draggable={false} />
+            <img className="absolute rounded-[5vw] aspect-video bg-blue-500" src="../front.png" alt="" draggable={false} />
           </div>
         </div>
       </div>

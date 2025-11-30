@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">fake-tram-card</string>
-    <string name="title_activity_main">fake-tram-card</string>
-    <string name="package_name">com.fakecard.app</string>
-    <string name="custom_url_scheme">com.fakecard.app</string>
-</resources>
