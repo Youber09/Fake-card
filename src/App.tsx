@@ -126,10 +126,10 @@ const App = () => {
 
   return (
     <div className="w-full h-svh flex flex-col bg-[#f2f2f2]">
-      <h1 className="text-[7vw] mukta-bold m-[3%] ml-[5%]">Setram Card</h1>
+      <h1 className="text-[6vw] mukta-bold m-[3%] ml-[5%]">Setram Card</h1>
 
       <div
-        className="w-full h-full p-[5%] mt-[-5%]"
+        className="w-full h-full p-[3%] mt-[-5%]"
         ref={containerRef}
         onPointerDown={handlePointerDown}
         onPointerMove={handlePointerMove}
