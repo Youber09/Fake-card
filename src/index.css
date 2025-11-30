@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.mukta-bold {
+  font-family: "Mukta", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
