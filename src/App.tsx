@@ -147,12 +147,12 @@ const App = () => {
             style={{ transform: `rotateY(${Rotation}deg)` }}
           >
             <img
-              className="absolute translate-z-[-0.1vw] rotate-y-180 rounded-[5vw] aspect-video bg-blue-500"
+              className="absolute translate-z-[-0.1vw] rotate-y-180 rounded-[5vw] "
               src="../back.jpg"
               alt=""
               draggable={false}
             />
-            <img className="absolute rounded-[5vw] aspect-video bg-blue-500" src="../front.png" alt="" draggable={false} />
+            <img className="absolute rounded-[5vw] " src="../front.png" alt="" draggable={false} />
           </div>
         </div>
       </div>
